@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-    Home::menu();  
+    Home::menu();  // menu
 }
