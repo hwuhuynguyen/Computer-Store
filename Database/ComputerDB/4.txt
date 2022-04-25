@@ -1,0 +1,6 @@
+Asus Vivobook X413JA
+Intel Core i3
+4GB
+26
+12000000
+48000000

@@ -1,0 +1,6 @@
+Dell Inspiron 7501
+Intel Core i5
+8GB
+53
+30000000
+60000000
